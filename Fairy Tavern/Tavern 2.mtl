@@ -1,0 +1,206 @@
+# Blender MTL File: 'Tavern 2.blend'
+# Material Count: 19
+
+newmtl Bar_Lowpoly_Mat
+Ns 392.580181
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.010682 0.010682 0.010682
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.540017 /media/user/FuckinA/Projects/3D/Projects/Bar/BarBakedNormals.png
+
+newmtl Barstool_Lowpoly_Mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump /media/user/FuckinA/Projects/3D/Projects/Chairs/BarstoolBakedNormals.png
+refl /media/user/FuckinA/Projects/3D/Projects/Chairs/BarstoolMtl.png
+
+newmtl Book_Lowpoly_Mat.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.106578 0.010530 0.005011
+Ks 0.090909 0.090909 0.090909
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.800000 /media/user/FuckinA/Projects/3D/Projects/Book/BookBakedNormals.png
+
+newmtl LowPolyMat
+Ns 100.286223
+Ka 0.947619 0.947619 0.947619
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump /media/user/FuckinA/Projects/3D/Projects/Crate/Crate Baked Normals.png
+refl /media/user/FuckinA/Projects/3D/Projects/Crate/CrateMetalness.png
+
+newmtl Low_Poly_Mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.239553 0.068133 0.004678
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 1.100000 /media/user/FuckinA/Projects/3D/Projects/Table/RectTableBakedNormal.png
+refl /media/user/FuckinA/Projects/3D/Projects/Table/RecTableMetalness.png
+
+newmtl Low_Poly_Mat.001
+Ns 548.897957
+Ka 1.000000 1.000000 1.000000
+Kd 0.049715 0.016097 0.000391
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump /media/user/FuckinA/Projects/3D/Projects/Barrel/Barrel_Normalmap.png
+refl /media/user/FuckinA/Projects/3D/Projects/Barrel/Berral_Metal.png
+
+newmtl Material.000
+Ns 506.250000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.001
+Ns 506.250000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.002
+Ns 14.578512
+Ka 1.000000 1.000000 1.000000
+Kd 0.082588 0.002968 0.000000
+Ks 0.118182 0.118182 0.118182
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -s 6.000000 6.000000 6.000000 /media/user/FuckinA/Projects/3D/Materials/Woods/DarkWoodFlooring/1k/DarkWoodFlooring_NRM.png
+
+newmtl Material.003
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.123805 0.578709 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 0.000000
+illum 9
+
+newmtl Material.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.069050 0.010394 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.005
+Ns 506.250000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Mug_Lowpoly_Mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.031818 0.031818 0.031818
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump /media/user/FuckinA/Projects/3D/Projects/Mug/MugBakedNormalMap.png
+refl /media/user/FuckinA/Projects/3D/Projects/Mug/MugMetal.png
+
+newmtl Outline
+Ns 506.250000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Outline.001
+Ns 506.250000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Outline.002
+Ns 506.250000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Outline.003
+Ns 506.250000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Outline.005
+Ns 506.250000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl RoundTableLowPolyMat
+Ns 0.911155
+Ka 0.585714 0.585714 0.585714
+Kd 0.138171 0.050973 0.006533
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 6.790000 /media/user/FuckinA/Projects/3D/Projects/Table/RoundTableBakedNormals.png
